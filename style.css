@@ -1,4 +1,22 @@
 h1 {
   text-align: center;
-  color: aqua;
+  font-size: 34px;
+  color: #42b883;
+  line-height: 48px;
+  margin: 0;
+  font-family: Helvetica, Arial, sans-serif;
+}
+button {
+  display: block;
+  margin: 20px auto;
+  border: 1px solid #42b883;
+  background: #42b883;
+  color: #fff;
+  font-size: 16px;
+  line-height: 22px;
+  padding: 14px 24px;
+  border-radius: 30px;
+  transition: all 0.4s ease-in-out;
+  box-shadow: rgb(37 39 89 / 8%) 0px 8px 8px 0;
+  cursor: pointer;
 }
